@@ -1,0 +1,8 @@
+.card-title_container{
+    width: 350px;
+    margin-top: 8px;
+}
+
+.card-title_container > p{
+    font-weight: 300;
+}
